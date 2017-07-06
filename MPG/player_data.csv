@@ -1,0 +1,279 @@
+Journee,Team,Adversaire,H/A,Player,Note
+1.0,Nancy,Lyon,H,Pedretti,3
+1.0,Nancy,Lyon,H,Robic,4
+1.0,Nancy,Lyon,H,N'Dy Assembe,5
+1.0,Nancy,Lyon,H,Muratori,3
+1.0,Nancy,Lyon,H,Junior Dalé,3
+1.0,Nancy,Lyon,H,Cuffaut,3
+1.0,Nancy,Lyon,H,Koura,4
+1.0,Nancy,Lyon,H,Diagne,4
+1.0,Nancy,Lyon,H,Lenglet,3
+1.0,Nancy,Lyon,H,N'Guessan,3
+1.0,Nancy,Lyon,H,Ait Bennasser,4
+1.0,Nancy,Lyon,H,Mandanne,3
+1.0,Nancy,Lyon,H,Puyo,5
+1.0,Nancy,Lyon,H,Badila,4
+1.0,Lyon,Nancy,A,Morel,6
+1.0,Lyon,Nancy,A,Yanga-Mbiwa,5
+1.0,Lyon,Nancy,A,N'Koulou,6
+1.0,Lyon,Nancy,A,Rafael,5
+1.0,Lyon,Nancy,A,Anthony Lopes,7
+1.0,Lyon,Nancy,A,Gonalons,6
+1.0,Lyon,Nancy,A,Lacazette,9
+1.0,Lyon,Nancy,A,Cornet,4
+1.0,Lyon,Nancy,A,Fekir,6
+1.0,Lyon,Nancy,A,Tolisso,5
+1.0,Lyon,Nancy,A,Darder,5
+1.0,Lyon,Nancy,A,Valbuena,5
+1.0,Lyon,Nancy,A,Grenier,5
+1.0,Lyon,Nancy,A,Ferri,6
+1.0,Bordeaux,Saint Etienne,H,Plasil,5
+1.0,Bordeaux,Saint Etienne,H,Pallois,6
+1.0,Bordeaux,Saint Etienne,H,Poundje,5
+1.0,Bordeaux,Saint Etienne,H,Rolan,5
+1.0,Bordeaux,Saint Etienne,H,Sabaly,4
+1.0,Bordeaux,Saint Etienne,H,Laborde,7
+1.0,Bordeaux,Saint Etienne,H,Touré,6
+1.0,Bordeaux,Saint Etienne,H,Malcom,7
+1.0,Bordeaux,Saint Etienne,H,Prior,3
+1.0,Bordeaux,Saint Etienne,H,Vada,6
+1.0,Bordeaux,Saint Etienne,H,Guilbert,4
+1.0,Bordeaux,Saint Etienne,H,Menez,4
+1.0,Bordeaux,Saint Etienne,H,Abdou Traoré,5
+1.0,Bordeaux,Saint Etienne,H,Ounas,5
+1.0,Saint Etienne,Bordeaux,A,Perrin,4
+1.0,Saint Etienne,Bordeaux,A,Ruffier,4
+1.0,Saint Etienne,Bordeaux,A,M'Bengue,5
+1.0,Saint Etienne,Bordeaux,A,Beric,4
+1.0,Saint Etienne,Bordeaux,A,Théophile-Catherine,2
+1.0,Saint Etienne,Bordeaux,A,Hamouma,7
+1.0,Saint Etienne,Bordeaux,A,Pogba,4
+1.0,Saint Etienne,Bordeaux,A,Pajot,4
+1.0,Saint Etienne,Bordeaux,A,Corgnet,3
+1.0,Saint Etienne,Bordeaux,A,Selnaes,4
+1.0,Saint Etienne,Bordeaux,A,Tannane,5
+1.0,Saint Etienne,Bordeaux,A,Monnet-Paquet,4
+1.0,Saint Etienne,Bordeaux,A,Søderlund,6
+1.0,Saint Etienne,Bordeaux,A,Polomat,5
+1.0,Montpellier,Angers,H,Camara,5
+1.0,Montpellier,Angers,H,Vanden Borre,5
+1.0,Montpellier,Angers,H,Hilton,7
+1.0,Montpellier,Angers,H,Congré,6
+1.0,Montpellier,Angers,H,Jourdren,6
+1.0,Montpellier,Angers,H,Boudebouz,7
+1.0,Montpellier,Angers,H,Roussillon,6
+1.0,Montpellier,Angers,H,Sanson,6
+1.0,Montpellier,Angers,H,Mounie,4
+1.0,Montpellier,Angers,H,Skhiri,6
+1.0,Montpellier,Angers,H,Casimir Ninga,5
+1.0,Montpellier,Angers,H,Remy,5
+1.0,Montpellier,Angers,H,Berigaud,4
+1.0,Montpellier,Angers,H,Deplagne,5
+1.0,Angers,Montpellier,A,Petric,5
+1.0,Angers,Montpellier,A,Ismael Traoré,4
+1.0,Angers,Montpellier,A,Thomas,5
+1.0,Angers,Montpellier,A,Manceau,5
+1.0,Angers,Montpellier,A,Andreu,4
+1.0,Angers,Montpellier,A,Sunu,4
+1.0,Angers,Montpellier,A,Capelle,5
+1.0,Angers,Montpellier,A,Diedhiou,4
+1.0,Angers,Montpellier,A,Ndoye,4
+1.0,Angers,Montpellier,A,Santamaria,5
+1.0,Angers,Montpellier,A,Toko Ekambi,6
+1.0,Angers,Montpellier,A,Nwakaeme,4
+1.0,Angers,Montpellier,A,Ketkeophomphone,4
+1.0,Angers,Montpellier,A,Pepe,5
+1.0,Nice,Rennes,H,Baysse,6
+1.0,Nice,Rennes,H,Souquet,4
+1.0,Nice,Rennes,H,Pléa,4
+1.0,Nice,Rennes,H,Cardinale,6
+1.0,Nice,Rennes,H,Walter,5
+1.0,Nice,Rennes,H,Seri,6
+1.0,Nice,Rennes,H,Lusamba,5
+1.0,Nice,Rennes,H,Koziello,5
+1.0,Nice,Rennes,H,Sarr,7
+1.0,Nice,Rennes,H,Dalbert,5
+1.0,Nice,Rennes,H,Marcel,4
+1.0,Nice,Rennes,H,Bodmer,5
+1.0,Nice,Rennes,H,Cyprien,5
+1.0,Nice,Rennes,H,Donis,4
+1.0,Rennes,Nice,A,Gourcuff,5
+1.0,Rennes,Nice,A,Baal,4
+1.0,Rennes,Nice,A,Chantôme,5
+1.0,Rennes,Nice,A,Fernandes,5
+1.0,Rennes,Nice,A,Sio,4
+1.0,Rennes,Nice,A,Costil,4
+1.0,Rennes,Nice,A,André,6
+1.0,Rennes,Nice,A,Pedro Mendes,5
+1.0,Rennes,Nice,A,Moreira,4
+1.0,Rennes,Nice,A,Said,5
+1.0,Rennes,Nice,A,Bensebaini,5
+1.0,Rennes,Nice,A,Grosicki,4
+1.0,Rennes,Nice,A,Erasmus,4
+1.0,Rennes,Nice,A,Diakhaby,4
+1.0,Marseille,Toulouse,H,Lass Diarra,5
+1.0,Marseille,Toulouse,H,Abou Diaby,4
+1.0,Marseille,Toulouse,H,Pelé,6
+1.0,Marseille,Toulouse,H,Gomis,5
+1.0,Marseille,Toulouse,H,Bedimo,5
+1.0,Marseille,Toulouse,H,Hubocan,6
+1.0,Marseille,Toulouse,H,Cabella,5
+1.0,Marseille,Toulouse,H,Thauvin,4
+1.0,Marseille,Toulouse,H,Sarr,5
+1.0,Marseille,Toulouse,H,Sakai,5
+1.0,Marseille,Toulouse,H,Doria,5
+1.0,Marseille,Toulouse,H,Rekik,5
+1.0,Marseille,Toulouse,H,Khaoui,5
+1.0,Marseille,Toulouse,H,Machach,5
+1.0,Toulouse,Marseille,A,Trejo,5
+1.0,Toulouse,Marseille,A,Braithwaite,4
+1.0,Toulouse,Marseille,A,Moubandje,6
+1.0,Toulouse,Marseille,A,Somália,5
+1.0,Toulouse,Marseille,A,Jullien,5
+1.0,Toulouse,Marseille,A,Sylla,6
+1.0,Toulouse,Marseille,A,Bodiger,4
+1.0,Toulouse,Marseille,A,Blin,5
+1.0,Toulouse,Marseille,A,Lafont,6
+1.0,Toulouse,Marseille,A,Adou,5
+1.0,Toulouse,Marseille,A,Diop,6
+1.0,Toulouse,Marseille,A,Toivonen,4
+1.0,Toulouse,Marseille,A,Pi,5
+1.0,Toulouse,Marseille,A,Edouard,4
+1.0,Bastia,Paris,H,Squillaci,4
+1.0,Bastia,Paris,H,Marange,5
+1.0,Bastia,Paris,H,Leca,6
+1.0,Bastia,Paris,H,Cahuzac,5
+1.0,Bastia,Paris,H,Mostefa,5
+1.0,Bastia,Paris,H,Peybernes,5
+1.0,Bastia,Paris,H,Diallo,5
+1.0,Bastia,Paris,H,Djiku,5
+1.0,Bastia,Paris,H,Saint-Maximin,5
+1.0,Bastia,Paris,H,Crivelli,3
+1.0,Bastia,Paris,H,Coulibaly,5
+1.0,Bastia,Paris,H,Danic,4
+1.0,Bastia,Paris,H,Thievy,4
+1.0,Paris,Bastia,A,Motta,5
+1.0,Paris,Bastia,A,Ben Arfa,4
+1.0,Paris,Bastia,A,David Luiz,6
+1.0,Paris,Bastia,A,Di María,6
+1.0,Paris,Bastia,A,Trapp,6
+1.0,Paris,Bastia,A,Pastore,5
+1.0,Paris,Bastia,A,Aurier,5
+1.0,Paris,Bastia,A,Kurzawa,6
+1.0,Paris,Bastia,A,Lucas Moura,4
+1.0,Paris,Bastia,A,Rabiot,6
+1.0,Paris,Bastia,A,Kimpembe,6
+1.0,Paris,Bastia,A,Matuidi,5
+1.0,Paris,Bastia,A,Verratti,5
+1.0,Paris,Bastia,A,Jesé,6
+1.0,Dijon,Nantes,H,Balmont,5
+1.0,Dijon,Nantes,H,Varrault,5
+1.0,Dijon,Nantes,H,Sammaritano,5
+1.0,Dijon,Nantes,H,Amalfitano,5
+1.0,Dijon,Nantes,H,Reynet,5
+1.0,Dijon,Nantes,H,Abdelhamid,5
+1.0,Dijon,Nantes,H,Bernard,5
+1.0,Dijon,Nantes,H,Tavares,4
+1.0,Dijon,Nantes,H,Chafik,5
+1.0,Dijon,Nantes,H,Marié,5
+1.0,Dijon,Nantes,H,Bahamboula,5
+1.0,Dijon,Nantes,H,Riviere,4
+1.0,Dijon,Nantes,H,Bela,5
+1.0,Dijon,Nantes,H,Diony,4
+1.0,Nantes,Dijon,A,Vizcarrondo,5
+1.0,Nantes,Dijon,A,Riou,6
+1.0,Nantes,Dijon,A,Gillet,5
+1.0,Nantes,Dijon,A,Thomsen,6
+1.0,Nantes,Dijon,A,Lucas Lima,7
+1.0,Nantes,Dijon,A,Iloki,6
+1.0,Nantes,Dijon,A,Diego Carlos,5
+1.0,Nantes,Dijon,A,Dubois,6
+1.0,Nantes,Dijon,A,Bammou,4
+1.0,Nantes,Dijon,A,Rongier,5
+1.0,Nantes,Dijon,A,Harit,6
+1.0,Nantes,Dijon,A,Moimbé,5
+1.0,Nantes,Dijon,A,Sala,4
+1.0,Monaco,Guingamp,H,Dirar,7
+1.0,Monaco,Guingamp,H,Subasic,5
+1.0,Monaco,Guingamp,H,Glik,5
+1.0,Monaco,Guingamp,H,Carrillo,3
+1.0,Monaco,Guingamp,H,Sidibe,6
+1.0,Monaco,Guingamp,H,Mendy,4
+1.0,Monaco,Guingamp,H,Fabinho,7
+1.0,Monaco,Guingamp,H,Jemerson,4
+1.0,Monaco,Guingamp,H,Lemar,5
+1.0,Monaco,Guingamp,H,Bakayoko,5
+1.0,Monaco,Guingamp,H,Mbappe-Lottin,4
+1.0,Monaco,Guingamp,H,João Moutinho,5
+1.0,Monaco,Guingamp,H,Bernardo Silva,7
+1.0,Monaco,Guingamp,H,Cavaleiro,4
+1.0,Guingamp,Monaco,A,Briand,6
+1.0,Guingamp,Monaco,A,Diallo,6
+1.0,Guingamp,Monaco,A,Sorbon,5
+1.0,Guingamp,Monaco,A,Deaux,6
+1.0,Guingamp,Monaco,A,Privat,6
+1.0,Guingamp,Monaco,A,Salibur,5
+1.0,Guingamp,Monaco,A,Johnsson,5
+1.0,Guingamp,Monaco,A,Angoua,5
+1.0,Guingamp,Monaco,A,Kerbrat,5
+1.0,Guingamp,Monaco,A,Ikoko,5
+1.0,Guingamp,Monaco,A,Coco,5
+1.0,Guingamp,Monaco,A,Giresse,5
+1.0,Guingamp,Monaco,A,Blas,4
+1.0,Guingamp,Monaco,A,Mane,5
+1.0,Caen,Lorient,H,Vercoutre,5
+1.0,Caen,Lorient,H,Yahia,5
+1.0,Caen,Lorient,H,Dabo,5
+1.0,Caen,Lorient,H,Da Silva,6
+1.0,Caen,Lorient,H,Féret,5
+1.0,Caen,Lorient,H,Imorou,6
+1.0,Caen,Lorient,H,Rodelin,6
+1.0,Caen,Lorient,H,Bazile,6
+1.0,Caen,Lorient,H,Santini,8
+1.0,Caen,Lorient,H,Ben Youssef,6
+1.0,Caen,Lorient,H,Delaplace,5
+1.0,Caen,Lorient,H,Malbranque,5
+1.0,Caen,Lorient,H,Bessat,6
+1.0,Caen,Lorient,H,Karamoh,5
+1.0,Lorient,Caen,A,Toure,4
+1.0,Lorient,Caen,A,Le Goff,3
+1.0,Lorient,Caen,A,Mesloub,5
+1.0,Lorient,Caen,A,Moukandjo,7
+1.0,Lorient,Caen,A,Majeed Waris,5
+1.0,Lorient,Caen,A,Rose,3
+1.0,Lorient,Caen,A,Lautoa,4
+1.0,Lorient,Caen,A,Lecomte,5
+1.0,Lorient,Caen,A,Ndong,5
+1.0,Lorient,Caen,A,Philippoteaux,5
+1.0,Lorient,Caen,A,Cafú,6
+1.0,Lorient,Caen,A,Jeannot,4
+1.0,Lorient,Caen,A,Koffi,4
+1.0,Lorient,Caen,A,Selemani,5
+1.0,Metz,Lille,H,Erdinc,7
+1.0,Metz,Lille,H,Cohade,5
+1.0,Metz,Lille,H,Jouffre,6
+1.0,Metz,Lille,H,Doukoure,5
+1.0,Metz,Lille,H,Rivierez,4
+1.0,Metz,Lille,H,Balliu,6
+1.0,Metz,Lille,H,Falette,5
+1.0,Metz,Lille,H,Mollet,4
+1.0,Metz,Lille,H,Nguette,6
+1.0,Metz,Lille,H,Milan,4
+1.0,Metz,Lille,H,Didillon,5
+1.0,Metz,Lille,H,Diallo,4
+1.0,Metz,Lille,H,Sarr,5
+1.0,Metz,Lille,H,Basin,5
+1.0,Lille,Metz,A,Enyeama,4
+1.0,Lille,Metz,A,Civelli,6
+1.0,Lille,Metz,A,Amalfitano,5
+1.0,Lille,Metz,A,Obbadi,4
+1.0,Lille,Metz,A,Palmieri,6
+1.0,Lille,Metz,A,Eder,6
+1.0,Lille,Metz,A,Corchia,4
+1.0,Lille,Metz,A,Bautheac,4
+1.0,Lille,Metz,A,Soumaoro,5
+1.0,Lille,Metz,A,Rony Lopes,7
+1.0,Lille,Metz,A,Amadou,5
+1.0,Lille,Metz,A,Mavuba,4
+1.0,Lille,Metz,A,Sankhare,5
+1.0,Lille,Metz,A,Ryan Mendes,4
